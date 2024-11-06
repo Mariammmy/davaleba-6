@@ -12,3 +12,15 @@
 .home{
     margin-left: 200px !important;
 }
+
+.headline{
+    display: inline-block;
+    margin: 80px 20px 20px 200px;
+    font-size: 24px;
+    font-weight: 1000;
+}
+
+.second{
+    margin-top: 150px !important;
+    display: block !important;
+}
