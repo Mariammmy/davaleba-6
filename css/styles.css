@@ -51,6 +51,31 @@
     margin-left: 200px !important;
 }
 
+.texts{
+    color: #8A8787;
+    position: absolute;
+    font-size: 15px;
+    width: 335px;
+    top: 250px;
+    left: 10px;
+    line-height: 1.8;
+}
+
+.min{
+    top: 315px !important;
+    left: 30px !important;
+}
+
+.clock{
+    position:absolute;
+    width: 16px;
+    height: 16px;
+    z-index: 5;
+    bottom: 20px;
+    left: 10px
+
+
+}
 .image {
     position: absolute;
     top: 0;
@@ -62,10 +87,13 @@
     z-index: 1;
 }
 
-.texts {
-    
+.caption {
+    color: #ffffff;
+    top: 15%;
+    left: 20%;
+    z-index: 5;
+    position: absolute;
 }
-
 
 .images{
     width: 758px;
